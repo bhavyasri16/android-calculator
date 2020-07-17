@@ -1,2 +1,2 @@
 # android-calculator
-Project to learn Android App development
+A Simple Calculator
